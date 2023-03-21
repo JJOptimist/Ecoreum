@@ -4,7 +4,7 @@
 
 ## Technologies: 
 
-![logo](https://ibb.co/WWPntbn) ![logo](https://ibb.co/KxbVfZj) ![logo](https://ibb.co/3mQrqDs) ![logo](https://ibb.co/wL2mpfG)
+![logo](https://i.ibb.co/PZ9xQ7x/logo-with-shadow.png) ![logo](https://i.ibb.co/PGF1PpZ/Post-CSS-Logo-svg.png) ![logo](https://i.ibb.co/8gtKpWB/React.webp) ![logo](https://i.ibb.co/BPYMT9W/Tailwind-CSS-Logo-svg.png)
 
 
 
