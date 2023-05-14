@@ -1,6 +1,6 @@
 # Ecoreum - Proof of Stake ETH Website
 
-![Ecoreum](https://i.ibb.co/tLbBhR5/main.png)
+![Eco](https://i.ibb.co/tLbBhR5/main.png)
 
 ## Technologies: 
 
